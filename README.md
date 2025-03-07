@@ -1,1 +1,1 @@
-# Logica_de_programa-o_dunas
+# Logica_de_programacao_dunas
