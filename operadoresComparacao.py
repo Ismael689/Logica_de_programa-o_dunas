@@ -7,7 +7,6 @@ print(x == y)
 
 # diferença
 print( x != y )
-
 # Superioriadade (>)
 print(x > y)
 # Inferioridade (<)
